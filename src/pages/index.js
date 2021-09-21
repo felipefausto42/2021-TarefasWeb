@@ -1,5 +1,4 @@
 import Head from 'next/head';
-
 import AppNavBar from '../components/AppNavBar';
 import AppCardBullets from '../components/AppCardBullets';
 
